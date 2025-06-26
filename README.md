@@ -47,9 +47,9 @@ This project is based on a FreeCodeCamp tutorial and demonstrates a basic PHP we
 2. Open a terminal in the unzipped folder  
 3. Build the image:
 
-   ```bash
-   docker build -t hello-hirescore .
-   ```
+```bash
+docker build -t hello-hirescore .
+```
 4. Run the container:
 
 ```bash
