@@ -32,7 +32,7 @@ http://localhost:3000
 ```bash
 docker compose down
 ```
-### 2.👋 Hello HireScore (PHP + Dockerfile)
+### 👋 2.Hello HireScore (PHP + Dockerfile)
 
 This project is based on a FreeCodeCamp tutorial and demonstrates a basic PHP web app that prints "Hello HireScore" in the browser. It showcases how to build and run a Docker container using a custom Dockerfile.
 
